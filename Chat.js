@@ -4,7 +4,7 @@ import React from "react";
 const Chat = () => {
   return (
     <View>
-      <Text>Chanm,./jdjdjdjdjdjdjdjdjddjdjdjdjdjdjdjdjdjdjdjdjdjddjft</Text>
+      <Text>Chaiut</Text>
     </View>
   );
 };
